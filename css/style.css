@@ -121,7 +121,7 @@ p{
 }
 .card-img .flex{
     margin-left: 5px;
-    /* display: flex; */
+    display: flex;
 }
 
 
